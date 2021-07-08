@@ -46,8 +46,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </div>
-![Snake animation](https://github.com/LeoImenes/LeoImenes/blob/output/github-contribution-grid-snake.svg)
-  ## Connect with me:
+## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/leonardo-panigassi-871b7a132/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -58,6 +57,7 @@
     <img src="https://komarev.com/ghpvc/?username=LeoImenes">
 </a>
 <a href="https://github.com/LeoImenes?tab=followers"><img src="https://img.shields.io/github/followers/LeoImenes?label=Followers&style=social" alt="GitHub Badge"></a>
+![Snake animation](https://github.com/LeoImenes/LeoImenes/blob/output/github-contribution-grid-snake.svg)
   
 
  
