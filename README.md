@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://miuc.org/wp-content/uploads/2020/08/6-Reasons-why-you-should-learn-Programming-737x366.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.tenor.com/images/ca6024e025800a681426c8edc139fabb/tenor.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Leo</h1>
 <h3 align="center">I'm a Developer from Brazil.</h3>
