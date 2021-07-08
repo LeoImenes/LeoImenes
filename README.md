@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Studying at **FAJ and SENAI**
 
-- 🌱 I’m currently learning **Systems analysis and things related to I.T area **
+- 🌱 I’m currently learning **Systems analysis and things related to I.T area**
 
 - 📫 How to reach me **leonardoimenes@hotmail.com**
 
