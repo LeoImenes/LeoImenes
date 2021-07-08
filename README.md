@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://media.tenor.com/images/d62e090630ff6829fda329b86ea723e0/tenor.gif" width="100px" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.tenor.com/images/d62e090630ff6829fda329b86ea723e0/tenor.gif" width="70px" height="90px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Leo</h1>
 <h3 align="center">I'm a Developer from Brazil.</h3>
