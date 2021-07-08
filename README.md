@@ -66,10 +66,7 @@
 
 ![Snake animation](https://github.com/LeoImenes/LeoImenes/blob/output/github-contribution-grid-snake.svg)
 <br>
-<br>
-<br>
-<br>
-<br>
+## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/leonardo-panigassi-871b7a132/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
