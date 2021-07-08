@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://media4.giphy.com/media/8MyXEVgue4ucw/200w.webp?cid=ecf05e47ehqyf7do0yw4777wkw4xtlcsi20dur0bfitnawyu&rid=200w.webp&ct=g" width="70px" height="90px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media4.giphy.com/media/8MyXEVgue4ucw/200w.webp?cid=ecf05e47ehqyf7do0yw4777wkw4xtlcsi20dur0bfitnawyu&rid=200w.webp&ct=g" width="20px" height="20px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Leo</h1>
 <h3 align="center">I'm a Developer from Brazil.</h3>
