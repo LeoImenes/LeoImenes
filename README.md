@@ -55,7 +55,7 @@
 
 
 </p>
-  ![Snake animation](https://github.com/LeoImenes/LeoImenes/blob/output/github-contribution-grid-snake.svg)
+  
   
 </div>
 
@@ -65,6 +65,6 @@
 </a>
 <a href="https://github.com/LeoImenes?tab=followers"><img src="https://img.shields.io/github/followers/LeoImenes?label=Followers&style=social" alt="GitHub Badge"></a>
 
-  
+  ![Snake animation](https://github.com/LeoImenes/LeoImenes/blob/output/github-contribution-grid-snake.svg)
 
  
