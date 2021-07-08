@@ -52,7 +52,7 @@
 <a href = "https://www.linkedin.com/in/leonardo-panigassi-871b7a132/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/leoimenes/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
-## ❤ Views and Followers
+##❤ Views and Followers <br>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=LeoImenes">
 </a>
