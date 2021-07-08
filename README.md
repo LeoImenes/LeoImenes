@@ -56,13 +56,7 @@
 <br/>
 
 ## Connect with me:
-<p align="left">
 
-<a href = "https://www.linkedin.com/in/leonardo-panigassi-871b7a132/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/leoimenes/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -71,7 +65,18 @@
 <a href="https://github.com/LeoImenes?tab=followers"><img src="https://img.shields.io/github/followers/LeoImenes?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ![Snake animation](https://github.com/LeoImenes/LeoImenes/blob/output/github-contribution-grid-snake.svg)
+<br>
+<br>
+<br>
+<br>
+<br>
+<p align="left">
 
+<a href = "https://www.linkedin.com/in/leonardo-panigassi-871b7a132/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/leoimenes/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+
+</p>
 
   
 </div>
