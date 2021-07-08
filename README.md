@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Studying at **FAJ and SENAI**
 
-- 🌱 I’m currently learning **Systems analysis**
+- 🌱 I’m currently learning **Systems analysis and things related to I.T area **
 
 - 📫 How to reach me **leonardoimenes@hotmail.com**
 
@@ -26,7 +26,7 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>  
-    <a href="https://postman.com" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsB3Zrsil8K6w7RnpvJAYUuyFh3GjNvLAyvA&usqp=CAU" alt="C++" width="45" height="45"/> </a>  
+    <a href="https://postman.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/128/c_icon_132529.png" alt="C++" width="45" height="45"/> </a>  
     
 
 </p>
