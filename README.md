@@ -50,8 +50,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/leonardo-panigassi-871b7a132/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/leoimenes/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/leonardo-panigassi-871b7a132/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://www.instagram.com/leoimenes/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=whitee"/></a>
 
 
 </p>
