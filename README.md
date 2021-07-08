@@ -45,11 +45,7 @@
   <a href="https://github.com/LeoImenes/github-readme-stats"><img alt="LeoImenes Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoImenes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br>
 
-
-
-![Snake animation](https://github.com/LeoImenes/LeoImenes/blob/output/github-contribution-grid-snake.svg)
 <br>
 ## Connect with me:
 <p align="left">
@@ -57,6 +53,9 @@
 <a href = "https://www.linkedin.com/in/leonardo-panigassi-871b7a132/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/leoimenes/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     <br/>
+    <br>
+![Snake animation](https://github.com/LeoImenes/LeoImenes/blob/output/github-contribution-grid-snake.svg)
+    <br>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
