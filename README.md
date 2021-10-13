@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **leonardoimenes@hotmail.com**
 
-- ⚡ Fun fact **I play games and some musical instruments as well.**
+- ⚡ Other fact **I play games and some musical instruments as well.**
 
 ## 🚀 Languages and Tools:
 
