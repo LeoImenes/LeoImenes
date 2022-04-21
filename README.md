@@ -33,18 +33,17 @@
 
 <br/>
 
-<p align="center">
-    <a href="https://github.com/LeoImenes/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="LeoImenes's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoImenes&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
 ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/LeoImenes/github-readme-stats"><img alt="LeoImenes Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeoImenes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/LeoImenes/github-readme-stats"><img alt="LeoImenes Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoImenes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+<p align="center">
+    <a href="https://github.com/LeoImenes/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="LeoImenes's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoImenes&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>  
+    <br/>
 <br/>
 
 ## Connect with me:
