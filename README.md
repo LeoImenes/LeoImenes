@@ -1,7 +1,7 @@
 
-
-<h1 align="center">Hi , I'm Leo</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">, I'm Leo</h1>
 <h3 align="center">I'm a Developer from Brazil.</h3>
+
 
 
 ## 🙋‍♂️ About Me
